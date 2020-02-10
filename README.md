@@ -13,8 +13,11 @@
 * Goto #Load the data cell and load the CV and Job Description as docx file.
 
 * Upon running the respective cells the last cell produces the following output.
-    *Your resume matches about 89.68% of the job description.
-    
+
+```
+  Your resume matches about 89.68% of the job description.
+
+```    
 ## Release History
 
 * 0.1.0
