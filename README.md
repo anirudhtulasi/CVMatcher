@@ -5,7 +5,7 @@
 [![Downloads Stats][npm-downloads]][npm-url]
 
 It matches the given CV to that of the Job Description.
-![Logo] (./image.jpg)
+![Logo][Img]
 
 
 ## Usage example
@@ -46,7 +46,7 @@ Anirudh Tulasi – [@AnirudhTulasi](https://twitter.com/AnirudhTulasi) – aniru
 [travis-image]: https://img.shields.io/travis/dbader/node-datadog-metrics/master.svg?style=flat-square
 [travis-url]: https://travis-ci.org/dbader/node-datadog-metrics
 [wiki]: https://github.com/anirudhtulasi/PythonScraper/wiki
-
+[Img]: (./Image.jpg)
 
 
 
